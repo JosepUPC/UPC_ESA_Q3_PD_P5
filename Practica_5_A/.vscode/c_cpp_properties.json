@@ -10,6 +10,7 @@
             "includePath": [
                 "c:/Users/Student/Desktop/UPC_ESA_Q3_PD_P5/Practica_5_A/include",
                 "c:/Users/Student/Desktop/UPC_ESA_Q3_PD_P5/Practica_5_A/src",
+                "c:/Users/Student/Desktop/UPC_ESA_Q3_PD_P5/Practica_5_A/.pio/libdeps/esp32doit-devkit-v1/LiquidCrystal_I2C/src",
                 "C:/Users/Student/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                 "C:/Users/Student/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "C:/Users/Student/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
@@ -241,6 +242,7 @@
                 "path": [
                     "c:/Users/Student/Desktop/UPC_ESA_Q3_PD_P5/Practica_5_A/include",
                     "c:/Users/Student/Desktop/UPC_ESA_Q3_PD_P5/Practica_5_A/src",
+                    "c:/Users/Student/Desktop/UPC_ESA_Q3_PD_P5/Practica_5_A/.pio/libdeps/esp32doit-devkit-v1/LiquidCrystal_I2C/src",
                     "C:/Users/Student/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                     "C:/Users/Student/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "C:/Users/Student/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
