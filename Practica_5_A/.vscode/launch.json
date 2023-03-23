@@ -12,9 +12,9 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug",
-            "executable": "c:/Users/98esq/Desktop/Universitat/Assignatures/4t quatrimestre/Processadors Digitals/Pràcticas/Pràctica 5/UPC_ESA_Q3_PD_P5/Practica_5_A/.pio/build/esp32doit-devkit-v1/firmware.elf",
+            "executable": "c:/Users/Student/Desktop/UPC_ESA_Q3_PD_P5/Practica_5_A/.pio/build/esp32doit-devkit-v1/firmware.elf",
             "projectEnvName": "esp32doit-devkit-v1",
-            "toolchainBinDir": "C:/Users/98esq/.platformio/packages/toolchain-xtensa-esp32/bin",
+            "toolchainBinDir": "C:/Users/Student/.platformio/packages/toolchain-xtensa-esp32/bin",
             "internalConsoleOptions": "openOnSessionStart",
             "preLaunchTask": {
                 "type": "PlatformIO",
@@ -25,18 +25,18 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (skip Pre-Debug)",
-            "executable": "c:/Users/98esq/Desktop/Universitat/Assignatures/4t quatrimestre/Processadors Digitals/Pràcticas/Pràctica 5/UPC_ESA_Q3_PD_P5/Practica_5_A/.pio/build/esp32doit-devkit-v1/firmware.elf",
+            "executable": "c:/Users/Student/Desktop/UPC_ESA_Q3_PD_P5/Practica_5_A/.pio/build/esp32doit-devkit-v1/firmware.elf",
             "projectEnvName": "esp32doit-devkit-v1",
-            "toolchainBinDir": "C:/Users/98esq/.platformio/packages/toolchain-xtensa-esp32/bin",
+            "toolchainBinDir": "C:/Users/Student/.platformio/packages/toolchain-xtensa-esp32/bin",
             "internalConsoleOptions": "openOnSessionStart"
         },
         {
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (without uploading)",
-            "executable": "c:/Users/98esq/Desktop/Universitat/Assignatures/4t quatrimestre/Processadors Digitals/Pràcticas/Pràctica 5/UPC_ESA_Q3_PD_P5/Practica_5_A/.pio/build/esp32doit-devkit-v1/firmware.elf",
+            "executable": "c:/Users/Student/Desktop/UPC_ESA_Q3_PD_P5/Practica_5_A/.pio/build/esp32doit-devkit-v1/firmware.elf",
             "projectEnvName": "esp32doit-devkit-v1",
-            "toolchainBinDir": "C:/Users/98esq/.platformio/packages/toolchain-xtensa-esp32/bin",
+            "toolchainBinDir": "C:/Users/Student/.platformio/packages/toolchain-xtensa-esp32/bin",
             "internalConsoleOptions": "openOnSessionStart",
             "loadMode": "manual"
         }
