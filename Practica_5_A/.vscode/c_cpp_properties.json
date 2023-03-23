@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "c:/Users/98esq/Documents/PlatformIO/Projects/Practica_5/include",
-                "c:/Users/98esq/Documents/PlatformIO/Projects/Practica_5/src",
+                "c:/Users/98esq/Desktop/Universitat/Assignatures/4t quatrimestre/Processadors Digitals/Pràcticas/Pràctica 5/UPC_ESA_Q3_PD_P5/Practica_5_A/include",
+                "c:/Users/98esq/Desktop/Universitat/Assignatures/4t quatrimestre/Processadors Digitals/Pràcticas/Pràctica 5/UPC_ESA_Q3_PD_P5/Practica_5_A/src",
                 "C:/Users/98esq/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "C:/Users/98esq/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                 "C:/Users/98esq/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
@@ -239,8 +239,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "c:/Users/98esq/Documents/PlatformIO/Projects/Practica_5/include",
-                    "c:/Users/98esq/Documents/PlatformIO/Projects/Practica_5/src",
+                    "c:/Users/98esq/Desktop/Universitat/Assignatures/4t quatrimestre/Processadors Digitals/Pràcticas/Pràctica 5/UPC_ESA_Q3_PD_P5/Practica_5_A/include",
+                    "c:/Users/98esq/Desktop/Universitat/Assignatures/4t quatrimestre/Processadors Digitals/Pràcticas/Pràctica 5/UPC_ESA_Q3_PD_P5/Practica_5_A/src",
                     "C:/Users/98esq/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "C:/Users/98esq/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                     "C:/Users/98esq/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
