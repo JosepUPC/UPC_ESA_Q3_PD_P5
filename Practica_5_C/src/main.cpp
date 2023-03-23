@@ -39,7 +39,7 @@ void setup()
 
   /* prints static text */
   lcd.setCursor(0, 0);
-  lcd.print(F("AHT10 sensor,"));
+  lcd.print(F("AHT10 sensor"));
 
   lcd.setCursor(0, 1);
   lcd.print(F("Temperature:"));
@@ -62,5 +62,5 @@ void loop()
 
   lcd.write(LCD_SPACE_SYMBOL); //"write()" is faster than "lcd.print()"
 
-  delay(5000);
+  delay(1000);
 }
