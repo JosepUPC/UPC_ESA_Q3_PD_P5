@@ -44,22 +44,22 @@ void setup()
 
   /* prints static text */
   lcd.setCursor(0, 0);
-  lcd.print(F("Dios,"));
+  lcd.print(F("pulse_sensor"));
 
-  lcd.setCursor(0, 1);
-  lcd.print(F("Salvame"));
-
-  lcd.setCursor(0, 2);
-  lcd.print(F("te rezare unas"));
 }
 
 
 void loop()
 {
   /* print dynamic text */
-  lcd.setCursor(0, 3);        //set 15-th colum & 3-rd row
+  lcd.setCursor(0, 1);
+  lcd.print(F(particleSensor.getRed()));
 
-  lcd.print(random(10, 1000));
+  lcd.setCursor(0, 2);
+  lcd.print(F(particleSensor.getIR()));
+
+  lcd.setCursor(0, 2);
+  lcd.print(F(particleSensor.getGreen()));
   lcd.write(LCD_SPACE_SYMBOL); //"write()" is faster than "lcd.print()"
 
   delay(5000);
