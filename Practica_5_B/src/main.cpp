@@ -26,21 +26,24 @@ void setup()
   lcd.clear();
 
   /* prints static text */
-  lcd.setCursor(0, 1);                 //set 1-st colum & 2-nd row
-  lcd.print(F("Hello world!"));
+  lcd.setCursor(0, 0);
+  lcd.print(F("Dios,"));
+
+  lcd.setCursor(0, 1);
+  lcd.print(F("Salvame"));
 
   lcd.setCursor(0, 2);
-  lcd.print(F("Random number: 1"));
+  lcd.print(F("te rezare unas"));
 }
 
 
 void loop()
 {
   /* print dynamic text */
-  lcd.setCursor(14, 2);        //set 15-th colum & 3-rd row
+  lcd.setCursor(0, 3);        //set 15-th colum & 3-rd row
 
   lcd.print(random(10, 1000));
   lcd.write(LCD_SPACE_SYMBOL); //"write()" is faster than "lcd.print()"
 
-  delay(1000);
+  delay(5000);
 }
